@@ -1,3 +1,3 @@
 # rinf-rust
 
-Just a experiment in implementing [rinf](https://github.com/cunarist/rinf/tree/main/flutter_ffi_plugin/bin) tools in pure Rust.
+Just an experimental implementation of [rinf](https://github.com/cunarist/rinf/tree/main/flutter_ffi_plugin/bin) tools in pure Rust.
